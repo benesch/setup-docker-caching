@@ -1,0 +1,6 @@
+name: Set up Docker caching
+description: >-
+  Set up Docker with Buildkit to cache to GitHub Actions.
+runs:
+  using: node12
+  main: index.js

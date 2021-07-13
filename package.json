@@ -1,0 +1,16 @@
+{
+  "name": "setup-docker-caching",
+  "version": "1.0.0",
+  "description": "Set up Docker with Buildkit to cache to GitHub Actions.",
+  "main": "index.js",
+  "repository": "https://github.com/benesch/setup-docker-caching.git",
+  "author": "Nikhil Benesch <nikhil.benesch@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/benesch/setup-docker-caching/issues"
+  },
+  "homepage": "https://github.com/benesch/setup-docker-caching#readme",
+  "dependencies": {
+    "@actions/core": "^1.4.0"
+  }
+}
